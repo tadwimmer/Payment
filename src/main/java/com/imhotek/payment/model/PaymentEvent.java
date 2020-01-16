@@ -1,8 +1,13 @@
 package com.imhotek.payment.model;
 
-import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 public interface PaymentEvent {
 
-    LocalDate getEventDate();
+    public enum EventType {
+        OPENED, SUBMITTED, POSTED, REJECTED, CLOSED, REVERSED;
+    }
+
+    LocalDateTime getEventDate();
+    EventType getEventType();
 }
