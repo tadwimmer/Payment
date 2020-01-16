@@ -10,3 +10,18 @@ others. We are all learning all the time so be respectful of others, answer with
 get along peacefully.
 
 If you see any unacceptable behavior, ignore the offender, but please report it to (mailto:tad.wimmer@utah.edu)
+
+## How can I contribute?
+
+### New features
+
+Share how new features of the Text Analytics Cognitive Service work.
+
+### Report bugs
+
+Not precisely about the Cognitive Service, Microsoft is the one to go for that, but about the code that exists in the notebook.
+Leting us know about existing bugs may also be a good idea, though!
+
+#### How do I submit a good bug report?
+
+Create an issue in the repository and follow the guidelines established by the ISSUE_TEMPLATE.md file.
