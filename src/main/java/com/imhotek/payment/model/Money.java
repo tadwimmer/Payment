@@ -2,9 +2,7 @@ package com.imhotek.payment.model;
 
 
 import java.math.BigDecimal;
-import java.text.FieldPosition;
 import java.text.NumberFormat;
-import java.text.ParsePosition;
 import java.util.Currency;
 import java.util.Locale;
 

@@ -1,4 +1,4 @@
-package com.imhotek.model;
+package com.imhotek.payment.model;
 
 public interface Model {
 

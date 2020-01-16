@@ -1,6 +1,7 @@
-package com.imhotek.controller;
+package com.imhotek.payment.controller;
 
-import com.imhotek.model.Payment;
+
+import com.imhotek.payment.model.Payment;
 
 public interface PaymentProcessor {
 
