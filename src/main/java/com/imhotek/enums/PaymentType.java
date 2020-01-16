@@ -1,4 +1,4 @@
-package com.imhotek.payment.enums;
+package com.imhotek.enums;
 
 public enum PaymentType {
 

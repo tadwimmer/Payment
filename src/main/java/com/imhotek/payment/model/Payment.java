@@ -1,12 +1,13 @@
 package com.imhotek.payment.model;
 
-import com.imhotek.payment.enums.PaymentType;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
 public interface Payment extends Model {
 
     LocalDateTime getPostedDae();
-    PaymentType getPaymentType();
+    com.imhotek.enums.PaymentType getPaymentTpype();
     Money getMoney();
+    List<PaymentEvent> getEvents();
 }
