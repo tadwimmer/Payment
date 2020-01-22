@@ -13,4 +13,4 @@ The system must be capable of processing and reversing payments by each of the m
 
 ## Contributing
 
-Please read the CONTRIBUTING.md
+Please read the [CONTRIBUTING.md](https://github.com/tadwimmer/Payment/blob/master/docs/CONTRIBUTING.md#contributing-to-this-repo)
